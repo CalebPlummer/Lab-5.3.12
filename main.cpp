@@ -38,8 +38,6 @@ public:
 private:
     double total_consumption;
 };
-
-
 class Cow: public FarmAnimal{
 public:
     Cow(double weight){
